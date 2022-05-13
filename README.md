@@ -1,6 +1,6 @@
 # dolthub-issues
 
-This is a place where you can [file issues](https://github.com/dolthub/dolthub-issues/issues/new) to report bugs or make feature requests for DoltHub (dolthub.com).
+This is a place where you can [file issues](https://github.com/dolthub/dolthub-issues/issues/new) to report bugs or make feature requests for DoltHub ([dolthub.com](https://www.dolthub.com)).
 
 Please don't forget to include a link (if applicable) and details to reproduce your issue.
 
